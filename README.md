@@ -1,6 +1,7 @@
 # kaggle_to_databricks
 Szanowny sprawdzający, 
   Z przyjemnością przedstawiam wam swoją własną wariację na temat powierzonego mi zadania.
+  
   "może nie najtaniej ale jako tako" - Bogusław Łęcina
 
 ważne punkty:
