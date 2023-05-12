@@ -4,7 +4,7 @@ Szanowny sprawdzający,
   
   "może nie najtaniej ale jako tako" - Bogusław Łęcina
 
-##ważne punkty:
+## ważne punkty:
 
 notebook.py - notebook do importu w databricks
 w folderze KaggleToDatabricks są pliki które wysłałem do PyPi.org
