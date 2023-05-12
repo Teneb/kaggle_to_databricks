@@ -1,2 +1,4 @@
-# kaggle_to_databricks
-Package created for recruitment task
+## KaggleToDatabricks
+
+This project has been created to finish recuritment task!
+It will be removed soon
